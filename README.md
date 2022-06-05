@@ -3,5 +3,6 @@ a simple tool to play/pause/next/previous controls from the windows taskbar
 
 
 
-*******CREDITS*********
+=======CREDITS=========
 .<a href="https://github.com/evilpro">evilpro</a>
+=======================
